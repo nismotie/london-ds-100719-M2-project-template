@@ -22,7 +22,7 @@ Modelled on a simple [Kanban](https://www.atlassian.com/agile/kanban) process wo
 ||||10|
 ||||11|
 ||||12|
-||13|||
+||||13|
 ||||14|
 
 Your tasks:
