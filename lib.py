@@ -5,6 +5,7 @@ import pymongo
 
 
 
+
 def mongoinsert(db_name, collection_name, dictionary): 
     myclient = pymongo.MongoClient("mongodb://localhost:27017/") # Connect to mongo server
     mydb = myclient[db_name] # Create new database
