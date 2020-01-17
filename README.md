@@ -1,8 +1,8 @@
 
 ________________________
-# Module 2 Summative Lab
+# Football Analysis Using a Weather API
 
-    Student Name: <Titus Bridgwood>
+This was a shorter project during my Data Science bootcamp in which we were tasked with querying an SQLite database, gaining weather data from the DarkSky api and performing an exploratory analysis linking these two datasets.
 
 ## Task Tracker
 
